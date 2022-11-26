@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite : #fff;
+$mainGrey: #ececec;
+$mainPink: #FF69B4;
+$mainBpink: #f4c2c2;
+
+body{
+  background: $mainGrey;
+  background-image: url('https://www.pexels.com/photo/purple-string-lights-and-lamps-with-curtains-1042152/z');
+  color: $mainBlack;
+  font-family: 'Roboto', sans-serif;
+}
